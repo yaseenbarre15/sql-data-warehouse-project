@@ -12,6 +12,9 @@ The data architecture for this project follows Medallion Architecture:  Bronze, 
 
 **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+<img width="442" height="404" alt="image" src="https://github.com/user-attachments/assets/94b2403d-63c3-4cbd-be53-450a8e6951f6" />
+
+
 📖 **Project Overview**
 This project involves:
 
@@ -30,6 +33,7 @@ Data Engineering
 ETL Pipeline Developer
 Data Modeling
 Data Analytics
+
 
 
 🚀 **Project Requirements**
@@ -53,11 +57,11 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 Objective**
 Develop SQL-based analytics to deliver detailed insights into:
 
-Customer Behavior
+**Customer Behavior**
 
-Product Performance
+**Product Performance**
 
-Sales Trends
+**Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 For more details, refer to docs/requirements.md.
